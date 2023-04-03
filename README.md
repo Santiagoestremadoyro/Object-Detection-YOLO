@@ -3,7 +3,7 @@
 This project aims to develop a live object detection system to assist blind people on the street. The system uses the Yolo model to detect a variety of objects in real time, such as people, vehicles, traffic signs, street furniture, etc. In addition, the system can also detect and remember important places previously selected by the user.
 
 <p align="center">
-  <img src="https://github.com/Santiagoestremadoyro/Object-Detection-YOLO/blob/main/img/detect2.jpg?raw=true" width="3000">
+  <img src="https://github.com/Santiagoestremadoyro/Object-Detection-YOLO/blob/main/img/detect2.jpg?raw=true" width="1500">
 </p>
 
 # Installation
