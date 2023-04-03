@@ -2,6 +2,10 @@
 
 This project aims to develop a live object detection system to assist blind people on the street. The system uses the Yolo model to detect a variety of objects in real time, such as people, vehicles, traffic signs, street furniture, etc. In addition, the system can also detect and remember important places previously selected by the user.
 
+<p align="center">
+  <img src="https://github.com/Santiagoestremadoyro/Object-Detection-YOLO/blob/main/img/yolov%20model.jpg?raw=true" width="3000">
+</p>
+
 # Installation
 
 To run this project, you will need to have Python 3.10.10 or later installed. You can install the required Python packages by running the following command:
@@ -15,7 +19,7 @@ To run this project, you will need to have Python 3.10.10 or later installed. Yo
 To run the Streamlit app, run the following command:
 
 ```python
-   streamlit run app.py
+   streamlit run streamlit.py
 ```
 # Functionalities
 - Live detection of objects on the street, including people, vehicles, traffic signs and street furniture.
@@ -33,7 +37,7 @@ To run the Streamlit app, run the following command:
 # Model (YOLO)
 
 <p align="center">
-  <img src="https://github.com/Santiagoestremadoyro/mid-bootcamp-work/blob/main/img/dashboard-2.png?raw=true" width="3000">
+  <img src="https://github.com/Santiagoestremadoyro/Object-Detection-YOLO/blob/main/img/yolov%20model.jpg?raw=true" width="3000">
 </p>
 
 The YOLO (You Only Look Once) model is an object detection model that uses a single neural network to simultaneously predict the classes and locations of objects in an image. Unlike other object detection approaches that require multiple processing steps, YOLO detects in a single pass.
